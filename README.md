@@ -1,1 +1,1 @@
-# Proyecto-sprint-7
+La pagina va funcionar para crear un histograma de datos de vehiculos 
